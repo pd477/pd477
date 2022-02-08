@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pd477
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning website makking
-- 💞️ I’m looking to collaborate on website making project
-- 📫 How to reach me pd4773424priyanshudwivedi040@gmail.com
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web making project
+- 📫 my email id pd4773424priyanshudwivedi040@gmail.com
 
 
 <!---
